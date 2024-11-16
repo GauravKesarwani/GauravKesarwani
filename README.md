@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravKesarwani
-- 👀 I’m interested in frontend engineering
 - 🌱 I’m proficient in modern web technologies, and frameworks and passionate about building scalable, performant applications.
+- 👀 I have experience working on Design Systems.
 
 <!---
 GauravKesarwani/GauravKesarwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
